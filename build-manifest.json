@@ -1,7 +1,7 @@
 {
   "release": "web-stage3-20260920",
-  "sourceCommit": "a97c9bcef075e12b34d3da1b19cb342fec5897c0",
-  "builtAtUtc": "2026-09-20T13:48:56.545970+00:00",
+  "sourceCommit": "d9f37d90560a0494d124571a4c289b93fa166bc6",
+  "builtAtUtc": "2026-09-20T14:03:20.393912+00:00",
   "dataOrigin": "browser location only after opt-in sharing; synthetic examples remain separate",
   "relay": "https://track-manager-relay.track-manager-spectator-relay.workers.dev",
   "files": {
@@ -9,10 +9,10 @@
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "favicon.png": "7ab2525f4b86b65d3e4c70358a17e5a1aaf6f437f99cbcc046dad73d59bb9015",
     "flutter.js": "2beb1ce6b159c71540aa66030af1d7964b6a92377cc78473745e02f97b74effe",
-    "flutter_bootstrap.js": "c13928373cca501a60c8a64c2b6d970aa2f2ef3678308ca7321f300efcdfd9a7",
+    "flutter_bootstrap.js": "82aa84aa8ebb4993a3c54692a00e4ca3a68c330b461c4c3749c3b6428cf564d2",
     "flutter_service_worker.js": "dbfbe64ae5be5b462abb97338eb9af783ed4ed57a8c73a53c2a44488a26f6416",
     "index.html": "bf86ac636c6e942187fb8ce7f51e8093c39d2e29168117d937faf1ee40ccff40",
-    "main.dart.js": "71f85dd03c328c3cc1c9801e3b20d4476ded1427c3be98c94975f40d8ad763fe",
+    "main.dart.js": "09a7aaecc5dbac66f0d4f3863b866e9b5203bac2ef5dd775aa30c5ebca9c17b9",
     "manifest.json": "55f117d06b27dcb4db9aed05892fa9685cb48a1104e8fddce49276dc00090a81",
     "track-icon.svg": "c74df7dc59eae38ee08bc9dbfac15c123229036f978fbb811268ca668e336ccc",
     "version.json": "5eefbb984e73ce1acc577ca7c9641ed02860b10de6013c7c882840f18f974142",
